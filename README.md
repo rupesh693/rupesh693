@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rupesh Kr. Yadav
+### Hi there 👋, I'm Rupesh
 
 <img src="https://komarev.com/ghpvc/?username=rupesh693&color=blue&style=flat-square" alt="Profile Views" />
 
