@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋, I'm Rupesh Kr. Yadav
 
-<!--
-**rupesh693/rupesh693** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com/ghpvc/?username=rupesh693&color=blue&style=flat-square" alt="Profile Views" />
 
-Here are some ideas to get you started:
+- 🎓 **BCA 1st Year Student** at MIMT College (Session: 2026-29)
+- 🎬 **Video Editor & Content Creator** with **4+ years of experience** in mobile video editing (CapCut) and script writing.
+- 🤖 **AI Video Enthusiast:** Building and experimenting with AI video creation tools to automate and enhance storytelling.
+- 🚀 Passionate about blending technology, coding, and media.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+- **Video Editing:** CapCut (Advanced Mobile Editing), Color Grading, Sound Design, Storyboarding
+- **Content Creation:** Script Writing, Audience Retention, AI Video Creation
+- **Programming & Tech (Learning):** C, Python, HTML/CSS (Currently exploring via BCA)
+
+---
+
+### 📫 Connect with Me
+- GitHub: [@rupesh693](https://github.com/rupesh693)
